@@ -9,3 +9,8 @@ h2 {
   padding: 10px;
   border: 1px solid blueviolet;
 }
+button {
+  text-align: center;
+  margin: 0 auto;
+  padding: 20px;
+}
